@@ -42,7 +42,7 @@ Git & GitHub
 
 Analysis Process
 
-The project followed a structured data analysis workflow:
+# The project followed a structured data analysis workflow:
 
 Data loading and inspection
 
@@ -88,6 +88,25 @@ I'm a computer science student. I'm intereted in data analytics.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 🛠 Skills
-Python, jupyter, pandas, matplotlib y numpy. 
+# 1. How to Run the Project
 
+Clone the repository:
+git clone https://github.com/mochifreeze-cc/CVA-Report-.git
+
+#  2. Install dependencies:
+pip install pandas numpy matplotlib
+
+# 3. Open the notebook:
+jupyter notebook
+
+# 4.Run ACV notebook.ipynb
+
+# What I Learned
+
+Practical experience in data cleaning and exploratory analysis using Python.
+
+How to extract meaningful insights from real-world healthcare datasets.
+
+Effective use of data visualization to communicate patterns and trends.
+
+Importance of documentation and version control in technical projects.
