@@ -1,22 +1,87 @@
-# CVA-Report
-This project is designed to generate a report based on a dataset containing information about individuals' health, including whether or not they experienced a stroke (ACV). The main goal is to filter and analyze the data to understand which variables contribute to the likelihood of having a stroke.
+# CVA Report – Stroke Risk Data Analysis
+This project focuses on exploratory data analysis of a healthcare dataset related to stroke (CVA) risk factors.
+The goal is to identify patterns and relationships between demographic, clinical, and lifestyle variables that may contribute to stroke occurrence, using Python-based data analysis and visualization techniques.
+
+The analysis was developed as an academic project to strengthen skills in data cleaning, analysis, and interpretation using real-world data.
+
+# Dataset
+
+The dataset contains anonymized patient information, including:
+
+Age
+
+Gender
+
+Hypertension
+
+Heart disease
+
+Average glucose level
+
+Body Mass Index (BMI)
+
+Smoking status
+
+Stroke occurrence (target variable)
+
+The data was explored to compare patterns between individuals with and without a history of stroke.
+
+# Technologies Used
+
+Python
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Git & GitHub
+
+Analysis Process
+
+The project followed a structured data analysis workflow:
+
+Data loading and inspection
+
+Data cleaning and preprocessing
+
+Handling missing values
+
+Formatting and transforming variables
+
+Exploratory Data Analysis (EDA)
+
+Distribution analysis of key variables
+
+Comparison between stroke and non-stroke groups
+
+Data visualization
+
+Charts to highlight trends and differences
+
+Insight extraction
+
+Identification of relevant risk factors
+
+# Key Insights
+
+Age shows a strong relationship with stroke occurrence, with higher incidence among older individuals.
+
+Individuals with hypertension or heart disease appear more frequently in the stroke group.
+
+Higher average glucose levels and BMI values are associated with increased stroke risk.
+
+Visual comparisons clearly highlight differences in health indicators between patients with and without stroke history.
+
+These insights demonstrate how data exploration and visualization can support understanding of healthcare risk factors.
 
 
 ## 🚀 About Me
 I'm a computer science student. I'm intereted in data analytics. 
 
-
-## Tech Stack
-
-**Python:** The primary programming language used for data processing, analysis, and visualization.
-
-**Jupyter Notebooks:** The development environment used to execute the code in an interactive manner, making it easy to visualize and document results.
-
-**NumPy:** Used for numerical computing, especially for handling arrays and performing mathematical operations on large datasets.
-
-**Pandas:** Provides high-level data manipulation capabilities, including tools for reading, cleaning, and transforming the dataset (especially through DataFrames).
-
-**Matplotlib:** A plotting library used to generate visualizations such as bar charts, histograms, and scatter plots to better understand the data.
 
 ## License
 
